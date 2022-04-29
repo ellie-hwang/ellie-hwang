@@ -7,11 +7,11 @@
 <img src="images/bonobono-swim.gif" width="300">
 
 ### :cake: Me, in a nutshell
-I'm a full-stack developer with background in math and a love for sandbox games. I love all things technology, collecting inspiration for UI design, and learning about databases.
+I'm a full-stack developer with a background in math and a love for sandbox games. I love all things technology, collecting inspiration for UI design, and learning about databases.
 
 ### :fax: Quick facts
 - :pencil: I enjoy working with tables and data
-- :movie_camera: I have big passion for movies
+- :movie_camera: I have a big passion for movies
 - :frog: Animal trivia is my jam
 - :fist: I am looking into learning Golang
 - :pencil2: I solve my algorithms on paper first
