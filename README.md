@@ -4,8 +4,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eleosart@gmail.com)](mailto:eleosart@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/gohomeellie/)](https://www.instagram.com/gohomeellie/)
 
-![Ellie's GitHub stats](https://github-readme-stats.vercel.app/api?username=ellie-hwang&show_icons=true&theme=nightowl&hide=stars,contribs&custom_title=Ellie%20Hwang%27s%20GitHub%20Stats)
-
 <img src="images/bonobono.gif" width="300">
 
 ### :cake: Me, in a nutshell
@@ -31,3 +29,7 @@ I'm a full-stack developer with background in math and a love for sandbox games.
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+
+### :star2: My stats
+
+![Ellie's GitHub stats](https://github-readme-stats.vercel.app/api?username=ellie-hwang&show_icons=true&theme=nightowl&hide=stars,contribs&custom_title=Ellie%20Hwang%27s%20GitHub%20Stats)
