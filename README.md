@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eleosart@gmail.com)](mailto:eleosart@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/gohomeellie/)](https://www.instagram.com/gohomeellie/)
 
-<img src="images/bonobono.gif" width="300">
+<img src="images/bonobono.gif" width="250">
 
 ### :cake: Me, in a nutshell
 I'm a full-stack developer with background in math and a love for sandbox games. I love all things technology, collecting inspiration for UI design, and learning about databases.
